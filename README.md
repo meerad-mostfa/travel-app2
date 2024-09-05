@@ -1,7 +1,7 @@
 # Travel Planner 2
-**Author:** Meerad Mostfa
+:) Meerad Mostfa
 
-A web application designed to help users plan and manage their trips efficiently. It integrates multiple APIs to provide comprehensive travel information, including weather forecasts, images, and more.
+A web application created to assist users in planning and managing their trips effectively. It combines various APIs to offer detailed travel information, such as weather forecasts, images, and additional resources.
 
 ## Features
 
